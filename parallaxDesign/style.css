@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    background-image: url(cover1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 200px;
+    height: 100vh;
+}
+
+#middle {
+    background-image: url(cover2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 200px;
+    height: 100vh;
+    
+}
+
+#final {
+    background-image: url(cover3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 200px;
+    height: 100vh;
+    
+}
+
+h1 {
+    font-size: 72px;
+}
+
+p {
+    margin-top: 100px;
+}
+
+
+.text {
+     width: 30%;
+    margin-left: 100px;
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.right {
+    float: right;
+    margin-top: -300px;
+    margin-right: 100px;
+}
